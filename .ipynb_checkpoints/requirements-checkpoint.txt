@@ -1,5 +1,0 @@
-pandas
-sqlite3
-json
-jupyter
-jupyterlab
