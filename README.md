@@ -57,4 +57,4 @@ Ensure that port `8889` is not currently in use by any other processes or if you
 
    `docker run -p 8889:8889 analytics`
 
-After executing the second command, you will receive two links to access the Jupyter notebook. Attempt to open both links in your web browser and proceed with the one that successfully launches the Jupyter notebook interface.
+Upon running the second command, two URLs will be displayed in the command-line interface, accompanied by a prompt suggesting you *copy and paste one of these URLs*. Attempt to open both links in your web browser and proceed with the one that successfully launches the Jupyter notebook interface.
